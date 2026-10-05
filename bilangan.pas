@@ -1,4 +1,4 @@
-program bilangan_gabut;
+program bilangan;
 uses crt;
 
 var
